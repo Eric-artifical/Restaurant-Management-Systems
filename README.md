@@ -22,6 +22,6 @@ A C++ console application designed to manage restaurant operations efficiently. 
 
 ## 💻 How to Run
 1. Clone the repository.
-2. Compile `main.cpp` using any C++ compiler (e.g., g++).
+2. Compile `RestaurantSystem.cpp` using any C++ compiler (e.g., g++).
 3. Ensure all `.csv` files are in the same directory as the executable.
 4. Run the application.
